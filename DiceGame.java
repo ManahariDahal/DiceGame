@@ -1,15 +1,3 @@
-// Name: Manahari Dahal     Date Assigned: 16 March 2017
-
-// Course: CSCI 2003 42733  Date Due: 23 March 2017
-
-// Instructor: Ms. Greer
-//
-// File name: DiceGame
-//
-// Program Description: This program recreates a dice game called “Run for it!”. The goal of the game is to roll
-//                      numbers that can be arranged into sequences of numbers that start with one (ex: 1, 2 or 1, 2, 3, etc.).
-
-
 import java.util.Scanner;        // importing Scanner object to allow user to input
 import java.util.Random;         // importing random class to generate random numbers
    
